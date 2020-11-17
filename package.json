@@ -1,7 +1,7 @@
 {
   "name": "http-plugin-examples",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Brandon Roberts",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
